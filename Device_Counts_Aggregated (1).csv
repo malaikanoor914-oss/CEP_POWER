@@ -1,0 +1,15 @@
+Device,Count,Typical_Power_W,Total_Power_W
+LEDs,141,12,1692
+Fans,55,75,4125
+AC,21,5200,109200
+Heaters,20,1500,30000
+Printers,13,200,2600
+Printer_Scanner,1,250,250
+PCs,60,250,15000
+Cooler,1,200,200
+Dispenser,4,150,600
+Projector,1,300,300
+Cameras,2,10,20
+ExhaustFan,2,50,100
+HandDryer,3,1500,4500
+TOTAL_CONNECTED_LOAD (W),,,168587
